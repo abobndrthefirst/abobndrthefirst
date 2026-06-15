@@ -55,17 +55,6 @@
 
 <br/>
 
-### 📊 GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abobndrthefirst&show_icons=true&count_private=true&hide_border=true&title_color=10B981&icon_color=10B981&text_color=c9d1d9&bg_color=0d1117" alt="Sultan's GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=abobndrthefirst&hide_border=true&background=0d1117&stroke=10B981&ring=10B981&fire=10B981&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=10B981&sideLabels=c9d1d9&dates=8b949e&excludeDaysLabel=8b949e" alt="GitHub streak" />
-
-</div>
-
-<br/>
-
 ### 🤝 Connect
 
 <div align="center">
