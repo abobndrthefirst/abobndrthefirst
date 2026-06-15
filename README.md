@@ -2,7 +2,7 @@
 
 <!-- ===== Animated typing header ===== -->
 <a href="https://github.com/abobndrthefirst">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=640&height=70&lines=Hi%2C+I'm+Sultan+%F0%9F%91%8B;Founder+%26+Full-Stack+Builder;I+ship+products+for+Saudi+businesses;Apple+%26+Google+Wallet+loyalty+cards" alt="Sultan — Founder & Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=640&height=70&lines=Hi%2C+I'm+Sultan+%F0%9F%91%8B;Product+Manager;I+turn+ideas+into+shipped+products;Users+%C3%97+Design+%C3%97+Engineering" alt="Sultan — Product Manager" />
 </a>
 
 <p>
@@ -18,50 +18,44 @@
 
 ### 🧭 About me
 
-- 🚀 Founder &amp; builder of **Waya** — digital **Apple &amp; Google Wallet loyalty cards** for Saudi businesses (no app to download).
-- 🧑‍💻 Full-stack indie hacker — I design, build, and ship end-to-end: web, mobile, and backend.
-- 🛠️ Other builds: **Rukn** (Arabic legal AI), **Meen** (lead-gen), and a stack of Next.js products.
-- 🇸🇦 Based in Saudi Arabia · building in **Arabic + English**.
-- 🌱 Currently heads-down on growth, polish, and getting products into people's hands.
+- 🧭 **Product Manager** — I turn fuzzy problems into clear, shipped products.
+- 🤝 I work at the intersection of **users, design, and engineering** — from discovery to delivery.
+- 📈 Outcome-obsessed: usability, retention, and getting things into people's hands.
+- 🇸🇦 Based in Saudi Arabia · working in **Arabic + English**.
+- ☕ Always up for a chat about product, growth, and what makes users tick.
 
 <br/>
 
-### 🧰 Tech stack
+### 🎯 What I do
 
 <div align="center">
 
-![My tech stack](https://skillicons.dev/icons?i=ts,js,dart,react,nextjs,flutter,nodejs,supabase,postgres,vercel,tailwind,figma,git&perline=7)
+![Product Strategy](https://img.shields.io/badge/Product%20Strategy-10B981?style=for-the-badge)
+![Discovery](https://img.shields.io/badge/Discovery-10B981?style=for-the-badge)
+![Roadmapping](https://img.shields.io/badge/Roadmapping-10B981?style=for-the-badge)
+![User Research](https://img.shields.io/badge/User%20Research-10B981?style=for-the-badge)
+![Data & Analytics](https://img.shields.io/badge/Data%20%26%20Analytics-10B981?style=for-the-badge)
+![Go-to-Market](https://img.shields.io/badge/Go--to--Market-10B981?style=for-the-badge)
 
 </div>
 
 <br/>
 
-### ⭐ Featured
+### 🧰 Toolbox
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-#### 🪪 Waya
-Digital loyalty &amp; rewards cards that live right inside **Apple Wallet &amp; Google Wallet** — no app install. Merchants launch a branded program in minutes; customers tap once and they're enrolled.
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-`Next.js` · `Supabase` · `Flutter` · `Vercel`
-
-</td>
-<td width="50%" valign="top">
-
-#### ⚖️ Rukn
-An **Arabic-first legal AI** assistant — research, drafting, and answers grounded in Saudi regulation.
-
-`Next.js` · `TypeScript` · `LLMs`
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-### 📊 GitHub stats
+### 📊 GitHub activity
 
 <div align="center">
 
